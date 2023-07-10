@@ -1,0 +1,5 @@
+# Python:
+apt-get install python
+
+# Python libraries:
+numpy
